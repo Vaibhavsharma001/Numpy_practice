@@ -2,7 +2,7 @@
 # English
 
 # NumPy (Numerical Rython) is an open-source Python library used for numerical computing. It provides a powerful object called ndarray (N-dimensional)
-# Array) that is much faster and more memory-efficient than Python lists.
+# Array that is much faster and more memory-efficient than Python lists.
 
 # NumPy is widely used in:
 
